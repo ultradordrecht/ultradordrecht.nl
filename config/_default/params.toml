@@ -1,0 +1,56 @@
+# SEO keywords and description for your site.
+keywords = "hugo, tailwind, tailwindcss, hugo theme, hugo theme tailwind"
+subtitle = "Example site for hugo-theme-tailwind"
+
+# dir name of your blog content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "post"
+
+jsonLD = true
+
+[author]
+  name = "Ultra Dordrecht"
+  email = "user@example.com"
+
+[header]
+  logo = "logo.png"
+
+[footer]
+  since = 2022
+  poweredby = true
+
+# giscus is comments system powered by GitHub Discussions
+# generate configurations from https://giscus.app/
+[giscus]
+  enabled = false
+
+[social_media]
+  [[social_media.items]]
+    enabled = true
+    title = 'Facebook'
+    icon = 'brand-facebook'
+    link = 'https://www.facebook.com/ultradordrecht'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'Twitter'
+    icon = 'brand-x'
+    link = 'https://twitter.com/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Instagram'
+    icon = 'brand-instagram'
+    link = 'https://www.instagram.com/ultradordrecht/'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'LinkedIn'
+    icon = 'brand-linkedin'
+    link = 'https://www.linkedin.com/'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/'

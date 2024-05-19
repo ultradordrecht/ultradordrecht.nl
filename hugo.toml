@@ -1,0 +1,85 @@
+# baseurl = "http://www.ultradordrecht.nl.s3-website-eu-west-1.amazonaws.com/"
+baseURL = "https://www.ultradordrecht.nl/"
+title = "Welkom bij Ultra Dordrecht"
+author = "gmic"
+copyright = "gmic"
+paginate = 10
+languageCode = "nl"
+theme = "tailwind"
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "logo1.webp"
+
+  [params.footer]
+    since = 2023
+    poweredby = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "bla"
+    name = "Bla"
+    pageRef = "/bla"
+    weight = 10
+
+[markup]
+  _merge = "deep"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+
+
+
+[deployment]
+order = [".png$", ".jpg$", ".gif$", ".svg$"]
+
+[[deployment.targets]]
+URL = "s3://www.ultradordrecht.nl?region=eu-west-1"
+
+[[deployment.matchers]]
+# Cache static assets for 4 years.
+pattern = "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
+cacheControl = "max-age=126144000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
