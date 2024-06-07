@@ -1,6 +1,6 @@
 # SEO keywords and description for your site.
-keywords = "hugo, tailwind, tailwindcss, hugo theme, hugo theme tailwind"
-subtitle = "Example site for hugo-theme-tailwind"
+keywords = "dordrecht, willie, batenburg, ultra, muziek, theater, markt"
+subtitle = "Culturele activiteit in Dordrecht"
 
 # dir name of your blog content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
@@ -8,16 +8,18 @@ contentTypeName = "post"
 
 jsonLD = true
 
+showReadingTime = false
+
 [author]
   name = "Ultra Dordrecht"
-  email = "user@example.com"
+  email = "info@ultradordrecht.nl"
 
 [header]
   logo = "logo.png"
 
 [footer]
-  since = 2022
-  poweredby = true
+  since = 2020
+  poweredby = false
 
 # giscus is comments system powered by GitHub Discussions
 # generate configurations from https://giscus.app/

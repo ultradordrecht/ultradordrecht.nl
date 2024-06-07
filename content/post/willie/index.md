@@ -5,14 +5,11 @@ date = "2021-10-04"
 description = "Willie Batenburg, The Musical!"
 tags = [
     "theater",
-    "dordrecht",
 ]
 categories = [
-    "projecten",
     "2021-10",
 ]
 toc = false
-series = ["Projecten"]
 image = "images/Sjentelmentel-Sjurnie-cast.jpg"
 +++
 

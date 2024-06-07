@@ -2,35 +2,31 @@
 author = "Ultra Dordrecht"
 title = "De Dordtse Markt"
 date = "2024-05-20"
-description = "De Dordtse Markt een tragikomedie in drie bedrijven."
+description = "The Dordrecht Market, a tragicomedy in three acts."
 tags = [
     "theater",
-    "dordrecht",
 ]
 categories = [
-    "projecten",
     "2024-10",
 ]
 toc = false
-series = ["Projecten"]
 image = "images/de-dordtse-markt-5.jpg"
 +++
 
-De Dordtse Markt een tragikomedie in drie bedrijven.
-<!--more-->
+## In short
 
-## In het kort
+Will you help us make our theater performance The Dordrecht Market, a tragicomedy in three acts, possible? We still need money for sets and technology to realize the performance.
 
-Help jij ons onze theatervoorstelling De Dordtse Markt een tragikomedie in drie bedrijven mogelijk te maken.  Voor het realiseren van de uitvoering hebben we nog geld nodig voor decors en techniek.
+## Who are we?
 
-## Wie zijn wij?
+We are the Dordts Suction Quintet, consisting of a core group of Bart van Aanholt, Peter Baldé, Bert den Boer, Esther Donkervoort and Gerhard Messelink - We previously performed the play Sjentelmentel Sjurnie, based on the life of Dordrecht cult hero Willy Batenburg.
 
-Wij zijn het Dordts Zuigkwintet, bestaande uit een vaste kern van Bart van Aanholt, Peter Baldé, Bert den Boer, Esther Donkervoort en Gerhard Messelink – Eerder speelde wij de voorstelling Sjentelmentel Sjurnie, gebaseerd op het leven van de Dordtse cultheld Willy Batenburg.
+## What are we going to do?
 
-## Wat gaan we doen?
-
-Wij maken een theatervoorstelling over de Dordtse markt. Iedereen heeft een binding met de weekmarkt. Wij beschouwen de markt als een metafoor voor een geliefde Dordtenaar. Iemand waar je baat bij hebt, waar je tegen kunt praten, die je vriend(in) is.
-In dit toneelstuk leven wij mee met marktmeester Johan, Greet van bloemenkraam In Duigen, Jo Bintje van de Hoeksche Aardappelen kraam, Boy Bodyfashion van de textielkraam en Tom Anders, de koffierondbrenger.
-Slapeloze nachten, ondernemers in tranen en verwijten aan de marktmeester. Het zijn onrustige dagen voor standplaatshouders. Er komt namelijk nieuw beleid aan, waardoor de toekomst voor de lokale marktstandhouders onzeker is. Naast dit alles spelen er persoonlijke thema’s en dit komt allemaal bij elkaar in deze tragikomedie met een lach en een traan.
+We are creating a theater performance about the Dordrecht market. Everyone has a connection with the weekly market. We see the market as a metaphor for a beloved Dordrecht citizen. Someone you benefit from, who you can talk to, who is your friend.
+In this play, we empathize with market master Johan, Greet from the flower stall In Duigen, Jo Bintje from the Hoeksche Potatoes stall, Boy Bodyfashion from the textile stall and Tom Anders, the coffee deliverer.
+Sleepless nights, entrepreneurs in tears and accusations at the market master. These are restless days for stand holders. New policy is coming, making the future uncertain for local market stall holders. In addition to all this, personal themes are playing out and all this comes together in this tragicomedy with a laugh and a tear.
 
 ![Photo by Elmo Kuiters](./images/de-dordtse-markt-14.jpg "Photo by Elmo Kuiters")
+
+For the performance, we still need money for sets and technology. It would be fantastic if you could lend us a hand! You can do so at [voordekunst](https://www.voordekunst.nl/projecten/16789-de-dordtse-markt-1).
