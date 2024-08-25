@@ -41,4 +41,4 @@ De prijs voor een kaartje bedraagt 7,50 euro.
 
 ![Photo by Elmo Kuiters](./images/de-dordtse-markt-14.jpg "Photo by Elmo Kuiters")
 
-Productie 'De Dordtse Markt' is mede mogelijk gemaakt door de gemeente Dordrecht en Stichting voordekunst.
+De Dordtse Markt is mede mogelijk gemaakt door de gemeente Dordrecht, Door Dordrecht, stichting Ultra Dordrecht en donateurs via Stichting voordekunst.

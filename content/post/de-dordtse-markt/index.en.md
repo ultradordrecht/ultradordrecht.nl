@@ -41,4 +41,4 @@ The price for a ticket is 7.50 euros.
 
 ![Photo by Elmo Kuiters](./images/de-dordtse-markt-14.jpg "Photo by Elmo Kuiters")
 
-Production 'De Dordtse Markt' was made possible by the municipality of Dordrecht and Stichting voordekunst.
+De Dordtse Markt was made possible by the municipality of Dordrecht, Door Dordrecht, Stichting Ultra Dordrecht and donors through Stichting voordekunst.
