@@ -35,7 +35,7 @@ Location: DOOR, Dordrecht, Gebouw de Munt. Munt 5, 3311 EG Dordrecht.
 
 Tickets are available via
 
-LINK volgt nog
+LINK will be available on Sepember 1th.
 
 The price for a ticket is 7.50 euros.
 

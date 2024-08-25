@@ -31,6 +31,3 @@ Vriendelijkheid
 Willie was de vriendelijkheid zelf. Hij werd  zeker in kringen van Drechtwerk (toen de DSW van Jongeneel) gewaardeerd.
 
 Veel Dordtenaren koesteren nog warme herinneringen aan hem. Willie was ook benaderbaar en dat was zijn kracht en misschien wel zijn valkuil zeker zich er op voorhand van bewust te zijn.
-
-MET DANK AAN:
-
