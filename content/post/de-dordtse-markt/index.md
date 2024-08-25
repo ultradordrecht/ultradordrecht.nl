@@ -23,7 +23,7 @@ Slapeloze nachten, ondernemers in tranen en verwijten aan de marktmeester. Het z
 
 ## Over het Dordts Zuigkwintet
 
-Het Dordts Zuigkwintet is een gezelschap bestaande uit Esther Donkervoort, Bart van Aanholt, Gerhard Messelink, Bert den Boer en Peter Baldé. Deze kern wordt in voorstelling 'De Dordtse Markt' aangevuld met gastacteurs en muzikanten: Annemieke de Graag, Tom Hartman en Han Willem Groeneveld. Regisseur is Petra Revet. Een eerdere voorstelling was Sjentementel Sjurnie, en mini-musical over het leven van Willie Batenburg. 'De Dordtse Markt' is geschreven door Bert den Boer en Bart van Aanholt. Liedjes zijn geschreven door Peter Baldé. Personages in het stuk zijn gebaseerd op niet werkelijk bestaande personen.  
+Het Dordts Zuigkwintet is een gezelschap bestaande uit Esther Donkervoort, Bart van Aanholt, Gerhard Messelink, Bert den Boer en Peter Baldé. Deze kern wordt in voorstelling 'De Dordtse Markt' aangevuld met gastacteurs en muzikanten: Annemieke de Graag, Tom Hartman en Han Willem Groeneveld. Regisseur is Petra Revet. Een eerdere voorstelling was Sjentementel Sjurnie, een mini-musical over het leven van Willie Batenburg. 'De Dordtse Markt' is geschreven door Bert den Boer en Bart van Aanholt. Liedjes zijn geschreven door Peter Baldé. Personages in het stuk zijn gebaseerd op niet werkelijk bestaande personen.  
 
 ## Wanneer en waar zijn de voorstellingen?
 
