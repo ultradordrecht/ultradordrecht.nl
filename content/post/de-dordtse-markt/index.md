@@ -35,7 +35,7 @@ Locatie: DOOR, Dordrecht, Gebouw de Munt. Munt 5, 3311 EG  Dordrecht.
 
 Kaarten zijn verkrijgbaar via
 
-LINK wordt geplaatsts op 1 september
+[https://doordordrecht.stager.co/web/tickets](https://doordordrecht.stager.co/web/tickets)
 
 De prijs voor een kaartje bedraagt 7,50 euro.
 

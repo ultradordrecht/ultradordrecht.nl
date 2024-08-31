@@ -1,0 +1,33 @@
+table_of_contents = "Table of Contents"
+open_main_menu = "Open main menu"
+open_lang_switcher = "Open language switcher"
+[reading_time]
+  one = "One minute to read"
+  other = "{{ .Count }} minutes to read"
+
+[search]
+title = "Zoeken"
+empty_result = "Niets gevonden."
+placeholder = "Zoek..."
+
+[header]
+darkmode_toggle = "Wissel dark mode"
+
+[404]
+go_back_home = "Ga terug naar de home pagina"
+sorry = "Sorry, we kunnen de pagina die je zoekt niet vinden."
+page_not_found = "Pagina niet gevonden"
+
+[footer]
+powered_by = "Powered by {{ .Generator }} {{ .Heart }} {{ .Theme }}"
+copyright_with_since ="{{ .CopyrightSign }} {{ .SinceYear }} - {{ .CurrentYear}} {{ .Copyright }}"
+copyright_wo_since ="{{ .CopyrightSign }} {{ .CurrentYear}} {{ .Copyright }}"
+
+[paginator]
+newer_posts = "Newer posts"
+older_posts = "Older posts"
+
+[taxonomies]
+categories = "Categorieen"
+tags = "Tags"
+series = "Series"
