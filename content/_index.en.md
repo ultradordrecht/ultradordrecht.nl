@@ -18,7 +18,7 @@ image = "images/de-dordtse-markt-5.jpg"
 https://doordordrecht.stager.co/web/tickets
 
 - Friday October 4. Walk-in 18:45. Start 19:15
-- Saturdau October 5. Walk-in 19:30. Start 20:00
+- Saturday October 5. Walk-in 19:30. Start 20:00
 - Sunday October 6 (matinee). Walk-in 14:00. Start 14:30
 
 Be fast before we're sold out!
