@@ -16,7 +16,10 @@ image = "images/de-dordtse-markt-5.jpg"
 ## De kaartverkoop voor "De Dordtse Markt"is begonnen
 
 https://doordordrecht.stager.co/web/tickets
-(Scroll naar 4-10, 5-10 of 6-10)
+
+- Vrijdag 4 oktober. Inloop 18:45 uur. Aanvang 19:15 uur
+- Zaterdag 5 oktober. Inloop 19:30 uur. Aanvang 20:00 uur
+- Zondag 6 oktober (matinee). Inloop 14:00 uur. Aanvang 14:30 uur
 
 Wees er snel bij want op-is-op!
 
