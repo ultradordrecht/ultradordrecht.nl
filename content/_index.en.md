@@ -16,7 +16,10 @@ image = "images/de-dordtse-markt-5.jpg"
 ## Ticketsale for "De Dordtse Markt" is started
 
 https://doordordrecht.stager.co/web/tickets
-(Scroll to 4-10, 5-10 of 6-10)
+
+- Friday October 4. Walk-in 18:45. Start 19:15
+- Saturdau October 5. Walk-in 19:30. Start 20:00
+- Sunday October 6 (matinee). Walk-in 14:00. Start 14:30
 
 Be fast before we're sold out!
 
