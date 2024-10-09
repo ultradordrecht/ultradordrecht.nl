@@ -1,6 +1,6 @@
 baseURL = "https://www.ultradordrecht.nl"
 title = "Stichting Ultra Dordrecht"
-paginate = 3 # for demonstration of pagination
+paginate = 20
 languageCode = "en"
 defaultContentLanguage = "nl"
 enableInlineShortcodes = true
