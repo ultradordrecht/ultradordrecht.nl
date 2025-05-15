@@ -1,21 +1,19 @@
-+++
-author = "Ultra Dordrecht"
-title = "Sjentelmentel Sjurnie"
-date = "2021-10-04"
-description = "Willie Batenburg, The Musical!"
-tags = [
-    "theater",
-]
-categories = [
-    "2021-10",
-]
-toc = false
-image = "images/Sjentelmentel-Sjurnie-cast.jpg"
-+++
-
-(beest on a troe storrie)
+---
+toc: false
+author: Ultra Dordrecht
+title: Sjentelmentel Sjurnie
+date: 2021-10-04
+tags:
+  - theater
+description: Willie Batenburg, The Musical!
+image: images/Sjentelmentel-Sjurnie-cast.jpg
+categories:
+  - 2021-10
+---
+(beest on a troee storrie)
 
 De volksartiest WILLIE  BATENBURG (1927-2000) – herkenbaar met banjo en Tilorer pak – uit Dordrecht kwam terug in de herinneringen.
+
 <!--more-->
 
 Zeven mensen speelden in oktober 2021 de voorstelling Sjentelmentel Sjurnie! Willie Batenburg – The musical! 
