@@ -1,6 +1,5 @@
 baseURL = "https://www.ultradordrecht.nl"
 title = "Stichting Ultra Dordrecht"
-paginate = 20
 languageCode = "en"
 defaultContentLanguage = "nl"
 enableInlineShortcodes = true
@@ -9,6 +8,9 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 theme = "tailwind"
 enableGitInfo = true
+
+[pagination]
+  pagerSize = 20
 
 [markup]
   _merge = "deep"
@@ -22,7 +24,7 @@ tag = "tags"
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true

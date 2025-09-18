@@ -35,9 +35,9 @@ showReadingTime = false
 
   [[social_media.items]]
     enabled = false
-    title = 'Twitter'
+    title = 'X'
     icon = 'brand-x'
-    link = 'https://twitter.com/'
+    link = 'https://x.com/'
 
   [[social_media.items]]
     enabled = true

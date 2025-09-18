@@ -3,7 +3,6 @@ baseURL = "https://www.ultradordrecht.nl/"
 title = "Welkom bij Ultra Dordrecht"
 author = "gmic"
 copyright = "gmic"
-paginate = 10
 languageCode = "nl"
 theme = "tailwind"
 
@@ -39,6 +38,9 @@ theme = "tailwind"
     pageRef = "/bla"
     weight = 10
 
+[pagination]
+  pagerSize = 10
+
 [markup]
   _merge = "deep"
 
@@ -50,7 +52,7 @@ tag = "tags"
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
@@ -63,14 +65,11 @@ tag = "tags"
     disabled = false
     privacyEnhanced = true
 
-
-
-
 [deployment]
 order = [".png$", ".jpg$", ".gif$", ".svg$"]
 
 [[deployment.targets]]
-URL = "s3://www.ultradordrecht.nl?region=eu-west-1"
+URL = "ftp://yourusername:yourpassword@ftp.yourserver.com/public_html"
 
 [[deployment.matchers]]
 # Cache static assets for 4 years.

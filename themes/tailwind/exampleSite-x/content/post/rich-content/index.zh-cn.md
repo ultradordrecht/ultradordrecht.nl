@@ -26,7 +26,7 @@ Hugo 附带了几个用于丰富内容的[Shortcodes](https://gohugo.io/content-
 
 ---
 
-## Twitter Simple Shortcode
+## X Simple Shortcode
 
 {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
 

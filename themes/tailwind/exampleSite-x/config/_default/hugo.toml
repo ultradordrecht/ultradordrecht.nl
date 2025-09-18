@@ -1,7 +1,6 @@
 baseURL = "https://gohugo.io"
 title = "Hugo Theme Tailwind Example Site"
 copyright = "Xiaoliang Wang"
-paginate = 3 # for demonstration of pagination
 languageCode = "en"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -10,6 +9,9 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 theme = "tailwind"
 enableGitInfo = true
+
+[pagination]
+  pagerSize = # for demonstration of pagination
 
 [markup]
   _merge = "deep"
@@ -24,7 +26,7 @@ series = "series"
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
