@@ -1,44 +1,42 @@
 +++
 author = "Ultra Dordrecht"
-title = "De Dordtse Markt"
-date = "2024-05-20"
-description = "The Dordrecht Market, a tragicomedy in three acts."
+title = "De Stem van Dordt (voice of Dordt)"
+date = "2026-08-21"
+description = "The Voice of Dordt."
 tags = [
     "theater",
 ]
 categories = [
-    "2024-10",
+    "2026-10",
 ]
 toc = false
-image = "images/de-dordtse-markt-5.jpg"
+image = "images/stem-1.jpg"
 +++
 
 ## The performance
 
-In October 2024, the Dordts Zuigkwintet will play a theater performance about the Dordrecht market in Door. Everyone has a bond with the weekly market. We regard the market as a metaphor for a beloved Dordrecht resident. Someone who benefits you, who you can talk to, who is your friend.
+Following the successful mini-musical about the Dordt legend Willie Batenburg and a theatrical play about 'The Dordt Market', the theater company 'Het Dordts Zuigkwintet' is fully rehearsing for a third play, 'The Voice of Dordt'.
 
-In the theater piece 'De Dordtse Markt' we sympathize with market master Johan, Greet from the flower stall In Duigen, Jo Bintje from the Hoeksche Aardappelen Kraam, Boy Bodyfashion from the Textielkraam and Tom Anders, the coffee deliverer.
-
-Sleepless nights, entrepreneurs in tears and reproaches to the market master. These are troubled days for stand holders. A new policy is coming, which makes the future for local market stallholders uncertain. In addition to all this, there are personal themes and it all comes together in this tragicomedy with a laugh and a tear.
+On October 8, 9, 10, and 11, 2026, we will perform at music venue DJS at Grotekerksbuurt 1 in Dordrecht.
+Poet C. Buddingh', who passed away in the previous century, plays a central role in the piece, along with a number of other highly illustrious residents of Dordrecht.
 
 ## About the Dordts Zuigkwintet
 
-The Dordts Zuigkwintet is a company consisting of Esther Donkervoort, Bart van Aanholt, Gerhard Messelink, Bert den Boer and Peter Baldé. This core is supplemented in the performance 'De Dordtse Markt' with guest actors and musicians: Annemieke de Graag, Tom Hartman and Han Willem Groeneveld. Director is Petra Revet. An earlier performance was Sjentementel Sjurnie, a mini-musical about the life of Willie Batenburg. 'De Dordtse Markt' was written by Bert den Boer and Bart van Aanholt. Songs are written by Peter Baldé. Characters in the play are based on non-actual people.  
+Het Dordts Zuigkwintet is an organisation consisting of Esther Donkervoort, Bart van Aanholt, Gerhard Messelink, Bert den Boer and Peter Baldé. For the performance 'The Voice of Dordt', this core group is supplemented with musical accompaniment by Annemieke de Graag. The director is Petra Revet.
 
 ## When and where are the performances?
 
-- Friday October 4, 2024: Walk-in 7:00 PM. Performance 7:30 PM - 8:30 PM
-- Saturday October 5, 2024: Walk-in 7:00 PM. Performance 7:30 PM - 8:30 PM
-- Sunday October 6, 2024: Walk-in 2:00 PM. Performance 2:30 PM - 3:30 PM
+- Thursday, October 8, 2026
+- Friday, October 9, 2026
+- Saturday, October 10, 2026
+- Sunday, October 11, 2026
 
-Location: DOOR, Dordrecht, Gebouw de Munt. Munt 5, 3311 EG Dordrecht.
+Location: DJS, Dordrecht, Grotekerksplein 1.
 
-Tickets are available via
+The price for a ticket is 8.50 euros.
 
-[https://doordordrecht.stager.co/web/tickets](https://doordordrecht.stager.co/web/tickets)
+Tickets are available from September 1 via https://muziekpodiumdjs.nl/
 
-The price for a ticket is 7.50 euros.
+![Poster](./images/poster.jpg)
 
-![Photo by Elmo Kuiters](./images/de-dordtse-markt-14.jpg "Photo by Elmo Kuiters")
-
-De Dordtse Markt was made possible by the municipality of Dordrecht, Door Dordrecht, Stichting Ultra Dordrecht and donors through Stichting voordekunst.
+The Dordt Market has been made possible in part by the cultural fund, the municipality of Dordrecht, DJS, foundation Ultra Dordrecht and donors through Foundation voordekunst.
