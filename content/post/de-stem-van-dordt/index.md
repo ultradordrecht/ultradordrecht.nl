@@ -39,4 +39,4 @@ Tickets zijn vekrijgbaar vanaf 1 september via https://muziekpodiumdjs.nl/
 
 ![Poster](./images/poster.jpg)
 
-De Dordtse Markt is mede mogelijk gemaakt door het cultuurfonds, de gemeente Dordrecht, DJS, stichting Ultra Dordrecht en donateurs via Stichting voordekunst.
+De Stem van Dordt is mede mogelijk gemaakt door het Cultuurfonds Zuid-Holland, de gemeente Dordrecht, DJS, stichting Ultra Dordrecht en donateurs via Stichting voordekunst.
