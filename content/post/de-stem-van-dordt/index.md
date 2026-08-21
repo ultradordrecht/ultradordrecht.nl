@@ -10,7 +10,7 @@ categories = [
     "2026-10",
 ]
 toc = false
-image = "images/de-dordtse-markt-5.jpg"
+image = "images/stem-1.jpg"
 +++
 
 ## De voorstelling
@@ -35,7 +35,7 @@ Locatie: DJS, Dordrecht, Grotekerksplein 1.
 
 De prijs voor een kaartje bedraagt 8,50 euro.
 
-Tickets zijn vekrijgbaar vanaf 1 september via ![https://muziekpodiumdjs.nl/](https://muziekpodiumdjs.nl/)
+Tickets zijn vekrijgbaar vanaf 1 september via https://muziekpodiumdjs.nl/
 
 ![Poster](./images/poster.jpg)
 
