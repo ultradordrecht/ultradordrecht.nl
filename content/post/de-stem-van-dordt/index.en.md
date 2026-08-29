@@ -2,7 +2,7 @@
 author = "Ultra Dordrecht"
 title = "De Stem van Dordt (voice of Dordt)"
 date = "2026-08-21"
-description = "The Voice of Dordt."
+description = "Culture seriously threatened. What happens next?"
 tags = [
     "theater",
 ]
