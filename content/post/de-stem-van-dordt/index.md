@@ -26,16 +26,16 @@ Het Dordts Zuigkwintet is een gezelschap bestaande uit Esther Donkervoort, Bart 
 
 ## Wanneer en waar zijn de voorstellingen?
 
-- Donderdag 8 oktober 2026
-- Vrijdag 9 oktober 2026
-- Zaterdag 10 oktober 2026
-- Zondag 11 oktober 2026
+- Donderdag 8 oktober 2026 (Tickets)[https://muziekpodiumdjs.stager.co/shop/default/events/111692927]
+- Vrijdag 9 oktober 2026 (Tickets)[https://muziekpodiumdjs.stager.co/shop/default/events/111692930]
+- Zaterdag 10 oktober 2026 (Tickets)[https://muziekpodiumdjs.stager.co/shop/default/events/111692931]
+- Zondag 11 oktober 2026 (Tickets)[https://muziekpodiumdjs.stager.co/shop/default/events/111692929]
 
 Locatie: DJS, Dordrecht, Grotekerksplein 1.
 
 De prijs voor een kaartje bedraagt 8,50 euro.
 
-Tickets zijn verkrijgbaar vanaf 1 september via https://muziekpodiumdjs.nl/
+Tickets zijn ook verkrijgbaar via https://muziekpodiumdjs.nl/
 
 ![Poster](./images/poster.jpg)
 
