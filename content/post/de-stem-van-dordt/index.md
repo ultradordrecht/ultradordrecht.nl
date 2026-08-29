@@ -2,7 +2,7 @@
 author = "Ultra Dordrecht"
 title = "De Stem van Dordt"
 date = "2026-08-21"
-description = "De Stem van Dordt."
+description = "Cultuur ernstig bedreigd. Hoe moet het nu verder?"
 tags = [
     "theater",
 ]
