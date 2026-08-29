@@ -35,7 +35,7 @@ Locatie: DJS, Dordrecht, Grotekerksplein 1.
 
 De prijs voor een kaartje bedraagt 8,50 euro.
 
-Tickets zijn vekrijgbaar vanaf 1 september via https://muziekpodiumdjs.nl/
+Tickets zijn verkrijgbaar vanaf 1 september via https://muziekpodiumdjs.nl/
 
 ![Poster](./images/poster.jpg)
 
