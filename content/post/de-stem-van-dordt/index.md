@@ -2,7 +2,7 @@
 author = "Ultra Dordrecht"
 title = "De Stem van Dordt"
 date = "2026-08-21"
-description = "Is er nog toekomst voor cultuur in Dordrecht? Theaterrecensent Thierry de Bakker is idolaat van de Dordtse dichter en schrijver C. Buddingh’ Hij breekt zich het hoofd over hoe hij in deze tijd zijn werk onder de aandacht kan brengen. Wellicht bieden de financiële problemen van DDO, De Dordtse Omroep, mogelijkheden. Kunnen rouwclown August de Gene en zangeres Bobby Kween hem hierbij helpen? Hoe gaat hij om met de opportunistische politicus Albert-Henk van Schapendrift die zo zijn eigen ideeën heeft over kunst en cultuur? Het komt allemaal voorbij in een nieuw muzikaal theaterspektakel van het Dordts Zuigkwintet waarin de geest van Kees Buddingh’ rondwaart.  Bij het kopje Voorstelling kan deze zin er dan ook uit: Dichter C. Buddingh’, overleden in de vorige eeuw, speelt een centrale rol in het stuk, samen met een aantal andere zeer illustere Dordtenaren. Bevestig even ontvangst"
+description = "Is er nog toekomst voor cultuur in Dordrecht? Theaterrecensent Thierry de Bakker is idolaat van de Dordtse dichter en schrijver C. Buddingh’ Hij breekt zich het hoofd over hoe hij in deze tijd zijn werk onder de aandacht kan brengen. Wellicht bieden de financiële problemen van DDO, De Dordtse Omroep, mogelijkheden. Kunnen rouwclown August de Gene en zangeres Bobby Kween hem hierbij helpen? Hoe gaat hij om met de opportunistische politicus Albert-Henk van Schapendrift die zo zijn eigen ideeën heeft over kunst en cultuur? Het komt allemaal voorbij in een nieuw muzikaal theaterspektakel van het Dordts Zuigkwintet waarin de geest van Kees Buddingh’ rondwaart."
 tags = [
     "theater",
 ]
@@ -18,7 +18,6 @@ image = "images/stem-1.jpg"
 Na de succesvolle mini-musical over de Dordtse legende Willie Batenburg en een theaterstuk over de 'De Dordtse Markt' is het toneelgezelschap ‘Het Dordts Zuigkwintet’ volop aan het repeteren voor een derde theaterstuk ‘De Stem van Dordt'.
 
 Op 8, 9, 10 en 11 oktober 2026 spelen we in muziekpodium DJS aan de Grotekerksbuurt 1 in Dordrecht.
-Dichter C. Buddingh', overleden in de vorige eeuw, speelt een centrale rol in het stuk, samen met een aantal andere zeer illustere Dordtenaren.
 
 ## Over het Dordts Zuigkwintet
 
